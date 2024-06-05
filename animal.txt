@@ -1,6 +1,0 @@
-hola 
-soy 
-un 
-ejercicio
-de 
-crearmids
